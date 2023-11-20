@@ -1,0 +1,18 @@
+body { 
+    background-image: url("fon.jpg"); } 
+div {   
+width: 100px;  
+height: 40px;  
+margin-bottom: 100 50px 0;  
+padding: 50px;  
+background: #CDD6DB;
+opacity: .3;
+ 
+color: rgb(7, 7, 7)  
+}  
+#first:hover{  
+background-color: white;  
+}  
+.second:hover{  
+background-color: white;  
+}
